@@ -1,0 +1,6 @@
+# Private: kept on your Mac, never pushed to GitHub
+brand/
+marketing/
+
+# Mac clutter
+.DS_Store

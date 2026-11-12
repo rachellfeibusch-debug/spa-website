@@ -1,0 +1,31 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FF Good Headline Pro Bold by FontFont
+ * URL: https://www.myfonts.com/collections/fontfont-foundry
+
+ * Webfont: FF Good Headline Pro Medium by FontFont
+ * URL: https://www.myfonts.com/collections/fontfont-foundry
+ 
+ * © 2025 MyFonts Inc. */
+
+
+  
+@font-face {
+  font-family: "FFGoodHeadlineProBold";
+  src: url('FFGoodHeadlineProBold/font.woff2') format('woff2'), url('FFGoodHeadlineProBold/font.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: "FFGoodHeadlineProMedium";
+  src: url('FFGoodHeadlineProMedium/font.woff2') format('woff2'), url('FFGoodHeadlineProMedium/font.woff') format('woff');
+  font-display: swap;
+}
+
