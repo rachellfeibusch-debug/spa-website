@@ -39,21 +39,22 @@ Walking alongside you
 
 Pause. Think. Thrive.
 
-### Don't fear change!
+### How do you thrive?
 
-That is easy to say when the business landscape has recently completely changed. Someone is already working on disrupting your business model, with all the new technology tools available! Conversely, now is a great moment to capture and preserve the unique core of your business and to move ahead of your competition.
+As exciting as business can be, there are more times than most of us care to mention when having someone alongside us, who truly understands the challenges, is invaluable. Sometimes leadership can seem lonely or unreasonably hard. When difficult decisions or circumstances put leaders and the business itself under pressure, a true business ally can bring a calm, an independent perspective, and help leaders to focus on what matters; offering practical support to find a way forward, allowing you, your team and business to thrive.
 
 ### Where do you start?
 
-The answer is in theory easy: start from where you are, protect and preserve what you have; and then use that platform to create additional value.
+It is hard to find someone who has walked a similar path, with a lifetime of experience, who has themselves experienced failure and success and is still engaged, up to date and loves the challenges that business and leadership seems to endlessly present.
 
-The practice is a lot harder. Capturing, adapting and preserving the unique core of your business, then adapting and adjusting the rest of the business to reflect your core, cost effectively and without unintended consequences, is not easy.
+If you are looking for that kind of support, why not pause for a moment and make contact?
 
-### How do you start?
+The testimonials here and more besides tell their own story, that others who have done so, have not only thrived but have enjoyed the time to think and having a true ally.
 
-As a leader you no doubt would like to create some space, to pause and to think clearly. Also, to deal with the almost inevitable non-business matters that are in the way, to allow full focus on your leadership of the business.
+### Testimonial (one, from the My Story page)
 
-That is what Strategic Pause is here for: to be your completely up-to-date, deeply experienced, non-judgemental mentor, guide and business ally, to walk alongside you and your team.
+**[Jenny Goulding, Managing Director, Agile HR Consulting](https://www.linkedin.com/in/agilehrconsulting)**
+"… Philip combines incredible business acumen with compassion in a way rarely seen in high calibre business. Highly astute numerically but with an uncanny ability to think creatively. Not scared to ask challenging difficult questions to help you find solutions … I highly recommend any professional that wants to flourish to work with Philip."
 
 ### Explore working together
 
@@ -183,6 +184,13 @@ Experience has taught me leadership is both a privilege and a burden, and the hi
 You can read more about my experience on [LinkedIn](https://www.linkedin.com/in/philipfeibusch/), or scroll down for a few words from some of those I have worked with. Or [speak to me](https://calendly.com/philip-feibusch-spa-ukltd/30min).
 
 ### Testimonials
+
+**Partner, professional services business**
+"When a dispute with a fellow director put the future of our business at risk, Philip helped me find a way through. He quickly understood the commercial, governance and personal dynamics and helped me focus on what really mattered: an outcome that protected the business and gave everyone a dignified way forward.
+
+He was calm, clear-headed and practical throughout, testing my thinking without ever taking the decision away from me. The result was a clean, final settlement reached within weeks rather than months, and the business came out with a stable footing for its next phase.
+
+I would recommend Philip to any founder or board facing a difficult shareholder or partnership situation."
 
 **[Daniel Gorin, Director & Co-Founder, CheckMade Ltd](https://www.linkedin.com/in/daniel-gorin-b848172)**
 "Philip is on our advisory board. He is easy to work with and brings significant experience, exceptional lateral thinking and he is a problem solver par excellence. He is an invaluable business ally."

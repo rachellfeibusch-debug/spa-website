@@ -363,6 +363,8 @@ a:hover { text-decoration-color: var(--black); }
 }
 .testimonial blockquote { margin: 0 0 1.25rem; font-size: 1.0625rem; }
 .testimonial blockquote p { margin: 0; }
+.testimonial blockquote p + p { margin-top: 1em; }
+.testimonials__wide { grid-column: 1 / -1; }
 .testimonial figcaption { margin-top: auto; font-size: 0.95rem; color: var(--text-soft); }
 .testimonial figcaption strong { display: block; color: var(--black); font-size: 1.0625rem; }
 
